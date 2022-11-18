@@ -13,4 +13,4 @@ I was very excited at the time to start working on React projects.
 - Create components using classes.
 - Rendering parent and children components
 
-#### Check out this project here: https://github.com/carlospsvieira/React.js-Solar-System-Missions-WebPage
+#### Check out this project here: https://carlospsvieira.github.io/Solar-System-Missions/
